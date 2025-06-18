@@ -196,7 +196,7 @@ export default function Home() {
       <section id="about" className="min-h-screen px-8 py-16 bg-indigo-50">
         <h2 className="text-3xl font-semibold mb-6 text-center">👨‍💻 About Me</h2>
         <p className="max-w-3xl mx-auto text-center text-lg">
-          I'm a passionate developer with experience in building responsive and clean web applications
+          I&apos;m a passionate developer with experience in building responsive and clean web applications
         </p>
       </section>
 
